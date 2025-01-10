@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Se-Jung-LEE/Se-Jung-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SeJung-LEE/Se-Jung-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
