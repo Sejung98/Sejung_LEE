@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm integrated PhD student in Yonsei University, Seoul.
 <!--
 **SeJung-LEE/Se-Jung-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
